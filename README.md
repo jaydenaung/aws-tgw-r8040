@@ -4,6 +4,7 @@ Terraform scripts for transit gateway demonstration of CloudGuard in AWS\
 Builds the complete environment with web and application servers, northbound and southbound e-w hubs\
 See https://github.com/rcove/aws-tgw-r8040/blob/master/TGW%20POC%20v4.pdf for a diagram of the enviroment
 
+Don't forget to change the region.
 
 ---------------------------------------------------------------
 One time preparation of the AWS account 
